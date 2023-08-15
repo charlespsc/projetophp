@@ -1,26 +1,25 @@
 <?php
 
 //SOMA
-$idade = 46;
-$idadeDaqui10Anos = $idade + 10;
-#echo $idadeDaqui10Anos;
+$soma = 2 + 2;
+#echo $soma;
 
 //SUBTRAÇÃO
-$idadeDaqui10Anos = $idade - 10;
-#echo $idadeDaqui10Anos;
+$subtracao = 2 - 2;
+#echo $subtracao;
 
 //MULTIPLICAÇÃO
-$idadeDaqui10Anos = $idade * 10;
-#echo $idadeDaqui10Anos;
+$multiplicacao = 2 * 2;
+#echo $multiplicacao;
 
 //DIVISÃO
-$idadeDaqui10Anos = $idade / 10;
-#echo $idadeDaqui10Anos;
+$divisao = 2 / 2;
+#echo $divisao;
 
 //EXPONENCIAÇÃO
-$idadeDaqui10Anos = $idade ** 10;
-#echo $idadeDaqui10Anos;
+$doisAoCubo = 2 ** 3;
+#echo $doisAoCubo;
 
 //RESTO DA DIVISÃO OU MÓDULO
-$idadeDaqui10Anos = $idade % 10;
-echo $idadeDaqui10Anos;
+$restoDivisao = 10 % 3;
+echo $restoDivisao;
