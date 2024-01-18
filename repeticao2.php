@@ -6,6 +6,6 @@ for ($contador = 1; $contador <= 15; $contador++) {
 
 /* Reduzindo o código!
  * $contador = $contador + 1;
- * $contador += $contador;
+ * $contador += 1;
  * $contador++;
  */
